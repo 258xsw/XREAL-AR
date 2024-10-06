@@ -27,3 +27,23 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: tokage
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5407642516830929444
+      m_GuidHigh: 5384428166126795907
+    m_SerializedTextureGuid:
+      m_GuidLow: 1005580993843552422
+      m_GuidHigh: 1293988209301557867
+    m_Size: {x: 1, y: 0.93264246}
+    m_SpecifySize: 1
+    m_Name: tapioka
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5702372184529062081
+      m_GuidHigh: 674900237316174495
+    m_SerializedTextureGuid:
+      m_GuidLow: 348174016528029822
+      m_GuidHigh: 1374437026942262761
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: neko
+    m_Texture: {fileID: 0}
