@@ -372,6 +372,9 @@
 "Assets/Scripts/ARTrackedMultiImageManager.cs"
 "Assets/Scripts/LightEstimation.cs"
 "Assets/Scripts/LightEstimationText.cs"
+"Assets/Scripts/PlacedObject.cs"
+"Assets/Scripts/PlaceOnPlane.cs"
+"Assets/Scripts/Utility.cs"
 -langversion:9.0
 
 /deterministic
