@@ -1,0 +1,3 @@
+*.xml text eol=lf
+*.meta text eol=lf
+* text=auto
