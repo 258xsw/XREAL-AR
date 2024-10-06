@@ -370,6 +370,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 "Assets/Scripts/ARFaceMaterialSwitcher.cs"
 "Assets/Scripts/ARTrackedMultiImageManager.cs"
+"Assets/Scripts/LightEstimation.cs"
 -langversion:9.0
 
 /deterministic
