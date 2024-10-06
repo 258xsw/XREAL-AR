@@ -371,6 +371,7 @@
 "Assets/Scripts/ARFaceMaterialSwitcher.cs"
 "Assets/Scripts/ARTrackedMultiImageManager.cs"
 "Assets/Scripts/LightEstimation.cs"
+"Assets/Scripts/LightEstimationText.cs"
 -langversion:9.0
 
 /deterministic
