@@ -1,0 +1,2 @@
+Temp/ScriptUpdater/1946336199/548364458_ARKitLoader.cs => Library/PackageCache/com.unity.xr.arkit@4.2.10/Runtime/ARKitLoader.cs
+Temp/ScriptUpdater/1946336199/764561141_ARKitXRDepthSubsystem.cs => Library/PackageCache/com.unity.xr.arkit@4.2.10/Runtime/Depth/ARKitXRDepthSubsystem.cs
